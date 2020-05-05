@@ -33,7 +33,7 @@ dependencies {
 
 group = "name.benjaminabbitt"
 def artifactName = "evented-bookmarks-proto"
-version = "0.0.1"
+version = "0.0.2"
 
 
 protobuf {
